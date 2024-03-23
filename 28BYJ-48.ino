@@ -6,7 +6,7 @@
 #define STEPPER_PIN_4 11
 
 // Vreme potrebno za okretanje za 30 stepeni (u milisekundama)
-#define ROTATION_TIME 1000  // 3 sekunde
+#define ROTATION_TIME 3000  // 3 sekunde
 
 void setup() {
   // Postavljanje pinova stepper motora kao izlaznih
