@@ -18,11 +18,11 @@ void setup() {
 
 void loop() {
   // Okretanje u levo za 30 stepeni
-  rotateLeft(120);
+  rotateLeft(120); // paradox
   delay(ROTATION_TIME);
 
   // Okretanje u desno za 30 stepeni
-  rotateRight(120);
+  rotateRight(120); // paradox
   delay(ROTATION_TIME);
 }
 
