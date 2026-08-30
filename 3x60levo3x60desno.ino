@@ -45,3 +45,19 @@ void loop() {
   // Pauza pre ponavljanja
   delay(3000);
 }
+
+// START 0°
+//    ↓
+//   60°  ← stane
+//    ↓
+//  120°  ← stane
+//    ↓
+//  180°  ← stane
+
+//    ↓ UDESNO
+
+//  120°  ← stane
+//   ↓
+//   60°  ← stane
+//    ↓
+//    0°  ← stane
